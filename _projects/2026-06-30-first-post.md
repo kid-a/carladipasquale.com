@@ -8,7 +8,7 @@ featured_image: '/images/Bike2.gif'
 
 ![](/images/Bike2.gif)
 
-## Demo content
+<!-- ## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
@@ -103,4 +103,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->
