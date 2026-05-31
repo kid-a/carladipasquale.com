@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Carla Dipasquale
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,8 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: Carla Dipasquale Illustration
 
 grid_settings:
   overlay_opacity: 0.8

@@ -1,15 +1,15 @@
-site: Duet Jekyll Theme
+site: Carla Dipasquale
 
-url: 
+url: carladipasquale.com
 baseurl: 
 
 collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
+  # posts:
+  #   output: true
+  #   permalink: /blog/:slug
   projects:
     output: true
     permalink: /project/:slug
