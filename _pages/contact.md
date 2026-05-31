@@ -1,10 +1,8 @@
 ---
 title: Contact
-subtitle: Duet comes with a built-in contact form, that's free and easy to set up.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+subtitle: I am available for commissions and freelance collaborations. If you are interested in working together or feel my illustrations could be a good fit for your project, I’d love to hear from you - please leave a message using the form below, and I’ll get back to you as soon as I can.
+description: Contact form for carladipasquale.com
+featured_image: /images/demo/contact-me.jpg
 ---
 
 {% include contact-form.html %}
-
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.

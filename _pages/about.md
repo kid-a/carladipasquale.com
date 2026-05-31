@@ -1,13 +1,18 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: About 
+subtitle: Carla is an illustrator and digital creator based in Boston, MA, where she lives with her husband and two kids.  Originally from Sicily, Italy, her work is influenced by the vibrant culture and colors of the Mediterranean. Carla holds a MA in Archaeology. Outside the studio, she enjoys cooking, visiting museums, and discovering new treats.
+description: Carla is an illustrator and digital creator based in Boston, MA.
+featured_image: /images/Bike2.gif
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
-## Features
+
+
+
+
+![](/images/Bike2.gif)
+
+<!-- ## Features
 
 We've packed Duet full of powerful features to help showcase your work:
 
@@ -31,4 +36,4 @@ We've packed Duet full of powerful features to help showcase your work:
 
 Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->

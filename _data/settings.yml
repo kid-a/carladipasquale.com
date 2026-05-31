@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Carla Dipasquale
-  favicon_image: /images/favicon.png
+  favicon_image: /images/diamond.jpg
 
 header_settings:
   logo_image: 
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Work'
       url: '/'
     # - title: 'Blog'
     #   url: '/blog/'
@@ -27,9 +27,9 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/xlgvkyqo'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'Contact form submission from carladipasquale.com'
   send_button_text: 'Send Message'
 
 social_settings:
