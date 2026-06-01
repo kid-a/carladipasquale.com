@@ -1,10 +1,10 @@
 ---
-title: 'Summer Pattern'
+title: 'Una mamma è come un libro'
 subtitle: ''
-date: 2026-05-21 00:00:00
+date: 2026-05-22 00:00:00
 description: 
-featured_image: '/images/projects/11-summer-pattern.jpg'
+featured_image: '/images/projects/10-mamma-libro.jpeg'
 published: true
 ---
 
-![](/images/projects/11-summer-pattern.jpg)
+![](/images/projects/10-mamma-libro.jpeg)
