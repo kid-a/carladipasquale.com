@@ -8,7 +8,7 @@ published: true
 ---
 Nina and her pet turtle Connie are preparing a surprise birthday cake for mom, but the ingredients are missing! The two set off on an urban adventure to gather the missing ingredients. But something along the way doesn't go right and Nina worries the birthday surprise is ruined. Don't worry, Nina! With help from friends and family, Nina and Connie make Mamma's birthday surprise even more special!
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="1">
 	<img src="/images/projects/3-dont-worry/4-5.jpg">
 	<img src="/images/projects/3-dont-worry/8-9.jpg">
 	<img src="/images/projects/3-dont-worry/12-13.jpg">
