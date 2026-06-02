@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Carla Dipasquale
-  favicon_image: /images/mushroom.png
+  favicon_image: /images/mushroom.ico
 
 header_settings:
   logo_image: /images/carla-dipasquale.png
