@@ -7,7 +7,7 @@ featured_image: "/images/projects/9-poster-design/1-donnafugata.jpg"
 published: true
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
 	<img src="/images/projects/9-poster-design/1-donnafugata.jpg">
 	<img src="/images/projects/9-poster-design/baciami-mamma.jpg">
 	<img src="/images/projects/9-poster-design/calu-solo-titolo.jpg">

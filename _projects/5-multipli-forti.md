@@ -7,7 +7,7 @@ featured_image: '/images/projects/5-multipli-forti/1-multipli-forti-engine.jpg'
 published: true
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
 	<img src="/images/projects/5-multipli-forti/1-multipli-forti-engine.jpg">
 	<img src="/images/projects/5-multipli-forti/multipli-forti-trees.jpg">
 	<img src="/images/projects/5-multipli-forti/multipli-forti-window.jpg">

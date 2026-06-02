@@ -7,7 +7,7 @@ featured_image: '/images/projects/4-henri-cartier-bresson/1-henri.jpg'
 published: true
 ---
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="1">
 	<img src="/images/projects/4-henri-cartier-bresson/Diamond.jpg">
 	<img src="/images/projects/4-henri-cartier-bresson/Gare-St.-Lazare.jpg">
 	<img src="/images/projects/4-henri-cartier-bresson/Leica.jpg">

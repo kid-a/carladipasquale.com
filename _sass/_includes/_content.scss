@@ -21,7 +21,7 @@
 .content-wrap {
 
 	@include mq(tabletp) {
-		max-width: 90%;
+		max-width: 65%;
 		margin: 0 auto;
 	}
 }
