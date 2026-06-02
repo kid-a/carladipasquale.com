@@ -20,8 +20,8 @@
 
 	<!-- Page Info -->
 	<!-- <link rel="shortcut icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}"> -->
-	<link rel="icon" type="image/png" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
-    <link rel="apple-touch-icon" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
+	<link rel="icon" type="image/png" sizes="144x144" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.data.settings.basic_settings.favicon_image | relative_url }}">
 	<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
 	<meta name="description" content="{{ page.description | strip_html | xml_escape }}">
 
